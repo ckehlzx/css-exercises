@@ -1,0 +1,19 @@
+.lame {
+  background-color: rgb(168, 74, 74);
+  font-family: Verdana, sans-serif;  
+}
+
+#id1 {
+  color: #16166e;
+  font-size: 36px;
+}
+
+.cool {
+  font-size: 24px;
+}
+
+#id2 {
+    background-color: hsl(84, 47%, 70%);
+    font-size: 24px;
+    font-weight: bold;
+}
